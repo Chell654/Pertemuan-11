@@ -78,7 +78,7 @@ d = lambda s: "".join(set(s))
 print(d("hello"))
 ```
 ### OUTPUT
-<img src="Gambar/5.L.png"><br>
+<img src="gambar/ss 4.png"><br>
 
 ><h3>'set(s)': Mengubah string s menjadi himpunan (set), yang akan menghilangkan duplikat karakter.</h3>
 
