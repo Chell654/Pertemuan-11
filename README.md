@@ -63,7 +63,7 @@ c = lambda *args: sum(args) / len(args)
 print(f'hasilnya adalah: {c(2, 4, 6, 8, 10)}')
 ```
 ### OUTPUT
-<img src="Gambar/4.L.png"><br>
+<img src="gambar/ss 3.png"><br>
 <h3>Ini karena fungsi lambda c menghitung rata-rata dari angka yang diberikan (2 + 4 + 6 + 8 + 10) / 5 = 30 / 5 = 6.0.</h3>
 
 ## Fungsi set
