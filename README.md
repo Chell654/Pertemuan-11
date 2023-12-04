@@ -50,7 +50,7 @@ b = lambda x,y : math.sqrt(x**2 + y**2)
 print(f'hasilnya adalah {b(2,3)}')
 ```
 ### OUTPUT
-<img src="Gambar/3.L.png">
+<img src="gambar/ss 2.png">
 
 ## Pembagian menggunakan *args
 ```python
