@@ -83,7 +83,7 @@ print(d("hello"))
 ><h3>'set(s)': Mengubah string s menjadi himpunan (set), yang akan menghilangkan duplikat karakter.</h3>
 
 ## OUTPUT
-<img src="Gambar/6.L.png">
+<img src="gambar/ss 5.png">
 
 ## Tugas Praktikum
 *Buat program sederhana dengan mengaplikasikan penggunaan fungsi
