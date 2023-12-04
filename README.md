@@ -243,7 +243,7 @@ while True:
 ```
 
 ### Hasil Program 
-![1](Gambar/1.png)
+![1](gambar/ss 6.png)
 
 ### *Hasil hanya sebagin dari fungsi program*
 
