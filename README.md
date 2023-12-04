@@ -37,7 +37,7 @@ pangkat = lambda x : x**2
 print(f'hasil dari 2 pangkat 2 adalah {pangkat(2)}')
 ```
 ### OUTPUT
-<img src="Gambar/2.L.png">
+<img src="gambar/ss 1.png">
 
 ## Akar
 ```python
